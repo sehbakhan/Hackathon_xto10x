@@ -45,6 +45,7 @@ This project aims to predict airline profitability by analyzing various factors,
 - R² Score: Measures how well the model explains the variance in profit.
 - MAE/MSE/RMSE: Evaluates error magnitudes.
 
+![image (1)](https://github.com/user-attachments/assets/a60db112-f191-4d3b-ab95-49176d325ca6)
 
 
 ### 6.Actionable Insights & Optimization
