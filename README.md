@@ -5,13 +5,12 @@ This project aims to predict airline profitability by analyzing various factors 
 
 # 🚀 Key Features & Technologies
 
-### 1.Data Preprocessing & Feature Engineering:
-- Data Preprocessing: Cleaning, transforming, and selecting key features for model training.
+### 1. Data Collection & Preprocessing
+- Gather Data: Collect flight data with all necessary features.
+- Handle Missing Values: Impute or remove missing data using statistical techniques.
+- Scaling: Standardize numerical features for better model performance.
+- Outlier Detection: Use IQR or other methods to handle anomalies in the data.
 
-- Feature Engineering: Creating new features and transforming raw data into meaningful insights.
-
-
-### Outlier detection
 ![image](https://github.com/user-attachments/assets/2790ebf0-ff15-42ec-bb78-f9a03d0290c3)
 
 
