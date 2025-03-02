@@ -11,9 +11,9 @@ Feature Engineering: Creating new features and transforming raw data into meanin
 
 ### 2.Machine Learning Models:
 Implementing various machine learning algorithms for accurate profitability prediction:
-Linear Regression
-Random Forest Regression
-XGBoost Regressor 
+ Linear Regression
+ Random Forest Regression
+ XGBoost Regressor 
 
 ### 3.Model Selection & Evaluation:
 Split Data: Dividing the dataset into training and testing sets to evaluate model performance.
