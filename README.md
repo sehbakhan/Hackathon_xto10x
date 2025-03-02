@@ -28,13 +28,11 @@ This project aims to predict airline profitability by analyzing various factors,
 ### 3.Model Selection & Training
 - Baseline Models: Start with Linear Regression and Decision Trees for benchmarking.
 - Advanced Models:
--- Random Forest
--- XGBoost
--- Gradient Boosting
--- Decision Tree Regressor
--- Cross-Validation: Ensure the model generalizes well to unseen data.
-
-
+- Random Forest
+- XGBoost
+- Gradient Boosting
+- Decision Tree Regressor
+- Cross-Validation: Ensure the model generalizes well to unseen data.
 
 
 ### 4. Model Explainability & Interpretability
@@ -42,6 +40,13 @@ This project aims to predict airline profitability by analyzing various factors,
 - Feature Importance Scores: Use tree-based models to rank important factors.
 - Partial Dependence Plots: Show how specific features influence predictions.
 
-### 5.Actionable Insights & Optimization
+### 5. Model Evaluation
+- Metrics:
+- R² Score: Measures how well the model explains the variance in profit.
+- MAE/MSE/RMSE: Evaluates error magnitudes.
+
+
+
+### 6.Actionable Insights & Optimization
 - Scenario Analysis: Test how different operational strategies affect profitability.
 - Business Recommendations: Provide optimization strategies based on model insights.
