@@ -5,12 +5,17 @@ This project aims to predict airline profitability by analyzing various factors 
 
 # 🚀 Key Features & Technologies
 
-## Data Preprocessing & Feature Engineering: Cleaning, transforming, and selecting key features for model training.
+## Data Preprocessing & Feature Engineering:
+Cleaning, transforming, and selecting key features for model training.
 
-## Machine Learning Models: Implementing Linear Regression, Random Forest, and Gradient Boosting for accurate profitability prediction.
+## Machine Learning Models:
+Implementing Linear Regression, Random Forest, and Gradient Boosting for accurate profitability prediction.
 
-## Model Evaluation: Assessing performance using MAE, RMSE, and R² score.
+## Model Evaluation:
+Assessing performance using MAE, RMSE, and R² score.
 
-## Data Insights & Optimization: Identifying correlations between delays, fuel efficiency, and revenue loss.
+## Data Insights & Optimization: 
+Identifying correlations between delays, fuel efficiency, and revenue loss.
 
-## Visualization: Graphical representation of seasonal trends, delay patterns, and their impact on profitability.
+### Visualization: 
+Graphical representation of seasonal trends, delay patterns, and their impact on profitability.
