@@ -6,9 +6,9 @@ This project aims to predict airline profitability by analyzing various factors 
 # 🚀 Key Features & Technologies
 
 ### 1.Data Preprocessing & Feature Engineering:
--- Data Preprocessing: Cleaning, transforming, and selecting key features for model training.
+- Data Preprocessing: Cleaning, transforming, and selecting key features for model training.
 
--- Feature Engineering: Creating new features and transforming raw data into meaningful insights.
+- Feature Engineering: Creating new features and transforming raw data into meaningful insights.
 
 
 ### 2.Machine Learning Models:
