@@ -3,7 +3,17 @@
 # 📌 Project Overview
 This project aims to predict airline profitability by analyzing various factors, such as flight delays, operational costs, and seasonal variations. By leveraging machine learning, we provide actionable insights to optimize operations and improve overall profitability.
 
-# 🚀 Key Features & Technologies
+
+## Technologies Used
+
+* **Python:** For data analysis and model development.
+* **Pandas & NumPy:** For efficient data manipulation and numerical operations.
+* **Scikit-learn:** For implementing machine learning models and evaluating performance.
+* **Matplotlib & Seaborn:** For data visualization and exploratory analysis.
+* **Jupyter Notebook:** For interactive development and execution of the project workflow.
+
+
+# 🚀 Key Features
 
 ### 1. Data Collection & Preprocessing
 - Gather Data: Collect flight data with all necessary features.
