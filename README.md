@@ -13,19 +13,19 @@ This project aims to predict airline profitability by analyzing various factors 
 
 ### 2.Machine Learning Models:
 Implementing various machine learning algorithms for accurate profitability prediction:
- Linear Regression
- Random Forest Regression
- XGBoost Regressor 
+ - Linear Regression
+ - Random Forest Regression
+ - XGBoost Regressor 
 
 ### 3.Model Selection & Evaluation:
-Split Data: Dividing the dataset into training and testing sets to evaluate model performance.
+- Split Data: Dividing the dataset into training and testing sets to evaluate model performance.
 
-Training: Training the selected model(s) on the training set.
+- Training: Training the selected model(s) on the training set.
 
-Assessing performance using MAE, RMSE, and R² score.
+- Assessing performance using MAE, RMSE, and R² score.
 
 ### 4.Data Insights & Optimization: 
-Identifying correlations between delays, fuel efficiency, and revenue.
+- Identifying correlations between delays, fuel efficiency, and revenue.
 
-### Visualization: 
-Graphical representation of seasonal trends, delay patterns, and their impact on profitability.
+### 5.Visualization: 
+- Graphical representation of seasonal trends, delay patterns, and their impact on profitability.
