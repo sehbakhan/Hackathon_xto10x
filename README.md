@@ -15,7 +15,7 @@ This project aims to predict airline profitability by analyzing various factors,
 
 # 🚀 Key Features
 
-### 1. Data Collection & Preprocessing
+### Data Collection & Preprocessing
 - Gather Data: Collect flight data with all necessary features.
 - Handle Missing Values: Impute or remove missing data using statistical techniques.
 - Scaling: Standardize numerical features for better model performance.
@@ -24,7 +24,7 @@ This project aims to predict airline profitability by analyzing various factors,
 ![image](https://github.com/user-attachments/assets/2790ebf0-ff15-42ec-bb78-f9a03d0290c3)
 
 
-### 2.Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Correlation Analysis: Identify relationships between features and profitability.
 - Seasonality Trends: Examine how flight profits fluctuate by time of year, day of week, etc.
 - Feature Importance: Use correlation matrices and feature selection techniques to focus on the most impactful variables.
@@ -42,12 +42,8 @@ This project aims to predict airline profitability by analyzing various factors,
 * Evaluated multiple regression models to identify the most effective algorithm for the given dataset.
 * Avoided unnecessary data transformations, such as encoding, where they were not required, to maintain simplicity and efficiency.
 
-## Results
 
-The trained regression model demonstrated a reasonable ability to predict airline-related outcomes based on the provided dataset. The performance metrics confirmed the model's effectiveness in handling the data.
-
-
-### 3.Model Selection & Training
+### Model Selection & Training
 - Baseline Models: Start with Linear Regression and Decision Trees for benchmarking.
 - Advanced Models:
 - Random Forest
@@ -57,19 +53,33 @@ The trained regression model demonstrated a reasonable ability to predict airlin
 - Cross-Validation: Ensure the model generalizes well to unseen data.
 
 
-### 4. Model Explainability & Interpretability
+### Model Explainability & Interpretability
 - SHAP Values: Identify the most influential features affecting profitability.
 - Feature Importance Scores: Use tree-based models to rank important factors.
 - Partial Dependence Plots: Show how specific features influence predictions.
 
-### 5. Model Evaluation
+### Model Evaluation
 - Metrics:
 - R² Score: Measures how well the model explains the variance in profit.
 - MAE/MSE/RMSE: Evaluates error magnitudes.
 
 ![image (1)](https://github.com/user-attachments/assets/a60db112-f191-4d3b-ab95-49176d325ca6)
 
+## Results
 
-### 6.Actionable Insights & Optimization
+The trained regression model demonstrated a reasonable ability to predict airline-related outcomes based on the provided dataset. The performance metrics confirmed the model's effectiveness in handling the data.
+
+
+### Actionable Insights & Optimization
 - Scenario Analysis: Test how different operational strategies affect profitability.
 - Business Recommendations: Provide optimization strategies based on model insights.
+
+### Future Improvements
+
+- Experiment with additional feature engineering techniques.
+- Try different regression algorithms to compare performance.
+- Implement PCA if feature dimensionality becomes an issue.
+
+### Conclusion
+
+This project successfully builds a regression model for the airline dataset by focusing on feature selection, preprocessing, and model training without unnecessary transformations. Future iterations can explore further optimizations to enhance accuracy.
