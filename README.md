@@ -35,6 +35,18 @@ This project aims to predict airline profitability by analyzing various factors,
 ![Delay by month](https://github.com/user-attachments/assets/8ed3fb6c-9186-43c8-a402-5aa1fb8dd3bc)
 
 
+## Solution Approach
+
+* Emphasized thorough data preprocessing and strategic feature selection to enhance prediction accuracy.
+* Implemented scaling techniques for numerical features to ensure data uniformity.
+* Evaluated multiple regression models to identify the most effective algorithm for the given dataset.
+* Avoided unnecessary data transformations, such as encoding, where they were not required, to maintain simplicity and efficiency.
+
+## Results
+
+The trained regression model demonstrated a reasonable ability to predict airline-related outcomes based on the provided dataset. The performance metrics confirmed the model's effectiveness in handling the data.
+
+
 ### 3.Model Selection & Training
 - Baseline Models: Start with Linear Regression and Decision Trees for benchmarking.
 - Advanced Models:
