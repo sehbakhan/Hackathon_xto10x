@@ -11,7 +11,7 @@ This project aims to predict airline profitability by analyzing various factors 
 - Feature Engineering: Creating new features and transforming raw data into meaningful insights.
 
 
-### Outlier dection
+### Outlier detection
 ![image](https://github.com/user-attachments/assets/2790ebf0-ff15-42ec-bb78-f9a03d0290c3)
 
 
