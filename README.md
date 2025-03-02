@@ -11,6 +11,10 @@ This project aims to predict airline profitability by analyzing various factors 
 - Feature Engineering: Creating new features and transforming raw data into meaningful insights.
 
 
+### Outlier dection
+![image](https://github.com/user-attachments/assets/2790ebf0-ff15-42ec-bb78-f9a03d0290c3)
+
+
 ### 2.Machine Learning Models:
 Implementing various machine learning algorithms for accurate profitability prediction:
  - Linear Regression
