@@ -3,6 +3,9 @@
 # 📌 Project Overview
 This project aims to predict airline profitability by analyzing various factors, such as flight delays, operational costs, and seasonal variations. By leveraging machine learning, we provide actionable insights to optimize operations and improve overall profitability.
 
+The primary objective of this project was to predict airline profitability using machine learning models by analyzing key financial, operational, and market factors. The project aimed to address the challenge of fluctuating airline revenues due to variable costs, demand seasonality, and external influences like fuel prices and economic conditions. By developing a data-driven approach, the project sought to assist airlines in making informed decisions on pricing strategies, cost optimization, and revenue management to improve overall profitability.
+
+
 
 ## Technologies Used
 
@@ -13,7 +16,7 @@ This project aims to predict airline profitability by analyzing various factors,
 * **Jupyter Notebook:** For interactive development and execution of the project workflow.
 
 
-# 🚀 Key Features
+# 🚀 Key Features, Methods and Approaches
 
 ### Data Collection & Preprocessing
 - Gather Data: Collect flight data with all necessary features.
